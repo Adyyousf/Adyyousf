@@ -1,16 +1,26 @@
-### Hi there 👋, I'm Adnan Yousf!
-#### I am a student of computer science and engineering.
+### Hi there 👋, I’m Adnan Yousuf!
+
+#### 🚀 Data Engineer | Cloud Enthusiast | AI Explorer | student of computer science.
 ![I am a student of computer science and engineering.](https://github.com/Adyyousf/Adyyousf/blob/main/untitled.svg)
 
-I'm a quick learner always learning new stuff. Be it technology, history, commerce, language, or culture, you'll always find me filling my bucket of knowledge with something new. I've worked on many different programming languages and frameworks but currently, I'm focused on learning advanced python and begin my journey in data science and machine learning.
+I’m a curious and motivated data engineer with experience in Python, SQL, and cloud-based solutions like Snowflake and Azure. I love building scalable data pipelines, optimizing ETL processes, and exploring the potential of AI. I’m always learning something new—whether it’s a new technology, language, or exploring different cultures.
 
+🌟 Skills & Expertise:
+	•	Data Engineering: Python, SQL, Snowflake, Azure, ETL
+	•	Web Development: Django, JavaScript, HTML, CSS, Bootstrap
+	•	Cloud Services: AWS, Azure Data Engineering (Certified)
+	•	Certifications: SnowPro Core, Azure Data Engineer Associate
 
+🔭 Currently Working On:
+	•	Automating data pipelines using Python for seamless ETL processes
+	•	Exploring advanced data integration techniques in Snowflake
 
-Skills: Python / Django / JS / HTML / CSS / Bootstrap / AWS
+🌱 Currently Learning:
+	•	Machine learning and AI model integration with Python
+	•	Advanced cloud architecture and DevOps practices
 
-- 🔭 I’m currently working on Authentication and Authorisation 
-- 🌱 I’m currently learning Django 
-- 💬 Ask me about Crypto, Tech, Startup, Mountains 
+💬 Ask Me About:
+Crypto, Cloud Technologies, Startups, Hiking Adventures
 - 📫 How to reach me: adyyousf197@gmail.com 
 
 
